@@ -1,0 +1,9 @@
+C:\Users\valentino\Desktop\DotNetBerlinClock-master\TimeConversionUnitTests\bin\Debug\TimeConversionUnitTests.dll
+C:\Users\valentino\Desktop\DotNetBerlinClock-master\TimeConversionUnitTests\bin\Debug\TimeConversionUnitTests.pdb
+C:\Users\valentino\Desktop\DotNetBerlinClock-master\TimeConversionUnitTests\bin\Debug\BerlinClock.dll
+C:\Users\valentino\Desktop\DotNetBerlinClock-master\TimeConversionUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\valentino\Desktop\DotNetBerlinClock-master\TimeConversionUnitTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\valentino\Desktop\DotNetBerlinClock-master\TimeConversionUnitTests\bin\Debug\BerlinClock.pdb
+C:\Users\valentino\Desktop\DotNetBerlinClock-master\TimeConversionUnitTests\obj\Debug\TimeConversionUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\valentino\Desktop\DotNetBerlinClock-master\TimeConversionUnitTests\obj\Debug\TimeConversionUnitTests.dll
+C:\Users\valentino\Desktop\DotNetBerlinClock-master\TimeConversionUnitTests\obj\Debug\TimeConversionUnitTests.pdb
